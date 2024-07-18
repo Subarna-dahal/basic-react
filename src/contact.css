@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container1{
+    height: 400px;
+    width: 400px;
+    margin: 200px;
+    padding: 20px;
+    background-color: rgb(206, 185, 153);
+    border-radius: ;
+}
+
+.container1 input{
+    
+}
